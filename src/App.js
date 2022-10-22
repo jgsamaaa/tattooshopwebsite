@@ -17,8 +17,8 @@ const App = () => {
     <div className="max-w-[1920px] mx-auto overflow-hidden bg-white">
       <Header />
       <Hero />
-      {/* <About />
-      <GallerySection />
+      <About />
+      {/* <GallerySection />
       <Skills />
       <Testimonial />
       <Interview />
