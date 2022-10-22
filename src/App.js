@@ -16,8 +16,8 @@ const App = () => {
   return (
     <div className="max-w-[1920px] mx-auto overflow-hidden bg-white">
       <Header />
-      {/* <Hero />
-      <About />
+      <Hero />
+      {/* <About />
       <GallerySection />
       <Skills />
       <Testimonial />
