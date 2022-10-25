@@ -20,11 +20,11 @@ const App = () => {
       <About />
       <GallerySection />
       <Skills />
-      <Testimonial />
+      {/* <Testimonial />
       <Interview />
       <Contact />
       <Footer />
-      <Copyright />
+      <Copyright /> */}
       {/* <div className='h-[4000px]'></div> */}
     </div>
   );
