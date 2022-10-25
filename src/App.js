@@ -18,13 +18,13 @@ const App = () => {
       <Header />
       <Hero />
       <About />
-      {/* <GallerySection />
+      <GallerySection />
       <Skills />
       <Testimonial />
       <Interview />
       <Contact />
       <Footer />
-      <Copyright /> */}
+      <Copyright />
       {/* <div className='h-[4000px]'></div> */}
     </div>
   );
