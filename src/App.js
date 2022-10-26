@@ -21,8 +21,8 @@ const App = () => {
       <GallerySection />
       <Skills />
       <Testimonial />
-      {/* <Interview />
-      <Contact />
+      <Interview />
+      {/* <Contact />
       <Footer />
       <Copyright /> */}
       {/* <div className='h-[4000px]'></div> */}
