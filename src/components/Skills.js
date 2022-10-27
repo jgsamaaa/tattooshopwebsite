@@ -42,7 +42,7 @@ const Skills = () => {
       setFullColor(0);
       setTemporary(0);
     }
-  }, [inView, fullBody, piercing, fullBody, temporary]);
+  }, [inView, fullBody, piercing, fullBody, temporary, fullColor]);
 
   const styles = {
     path: {
