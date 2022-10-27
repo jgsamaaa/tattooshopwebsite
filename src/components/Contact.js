@@ -60,7 +60,7 @@ const Contact = () => {
                     {/* link */}
                     <a
                       className="font-medium border-b border-dark pb-[5px]"
-                      href="#"
+                      href="/"
                     >
                       {link}
                     </a>
