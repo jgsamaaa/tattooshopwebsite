@@ -8,7 +8,7 @@ Live Server: https://gabrieltattoo.netlify.app/
 
 ## Main Page
 
-![Tattoo Website ](https://i.ibb.co/CV37k2r/tattoowebsite.png)
+![Tattoo Website ](https://i.ibb.co/FHx6c1S/tattoobig.png)
 
 ## Tech Stack
 
@@ -19,7 +19,7 @@ Live Server: https://gabrieltattoo.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/jgsamaaa/tattooshopwebsite.git
 ```
 
 Go to the project directory
