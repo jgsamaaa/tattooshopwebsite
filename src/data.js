@@ -37,11 +37,11 @@ export const navData = {
 };
 
 export const socialData = [
-  { href: '/', icon: <GrFacebookOption /> },
-  { href: '/', icon: <IoLogoInstagram /> },
-  { href: '/', icon: <IoLogoPinterest /> },
-  { href: '/', icon: <IoLogoTwitter /> },
-  { href: '/', icon: <IoLogoYoutube /> },
+  { href: 'https://www.facebook.com/', icon: <GrFacebookOption /> },
+  { href: 'https://www.instagram.com/', icon: <IoLogoInstagram /> },
+  { href: 'https://www.pinterest.com/', icon: <IoLogoPinterest /> },
+  { href: 'https://twitter.com/', icon: <IoLogoTwitter /> },
+  { href: 'https://www.youtube.com/', icon: <IoLogoYoutube /> },
 ];
 
 export const heroData = {

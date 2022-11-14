@@ -8,7 +8,12 @@ const Socials = () => {
       {socialData.map((item, index) => {
         return (
           <li key={index}>
-            <a className="uppercase  font-primary" href={item.href}>
+            <a
+              className="uppercase  font-primary"
+              href={item.href}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               {item.icon}
             </a>
           </li>
