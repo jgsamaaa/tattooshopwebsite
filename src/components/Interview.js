@@ -19,9 +19,10 @@ const Interview = () => {
       initial="hidden"
       whileInView={'show'}
       viewport={{ once: false, amount: 0.1 }}
+      id="interview"
       className="section bg-dark bg-interview bg-no-repeat bg-cover bg-center lg:h-[812px]"
     >
-      <div className="container mx-auto h-full">
+      <div className="container h-full mx-auto">
         <div className="flex flex-col justify-center h-full">
           <div className="flex flex-col items-start max-w-[880px]">
             <motion.h3
@@ -33,13 +34,13 @@ const Interview = () => {
             {/* btn */}
             <motion.div variants={fadeIn('down')}>
               <div
-                className="text-white flex items-center gap-x-5 cursor-pointer hover:opacity-80 transition"
+                className="flex items-center text-white transition cursor-pointer gap-x-5 hover:opacity-80"
                 onClick={() => setOpen(true)}
               >
                 {/* border */}
                 <div className="w-[70px] h-[70px] lg:w-[91px] lg:h-[91px] border border-white/40 rounded-full text-dark p-[5px] lg:p-[8px]">
                   {/* inner */}
-                  <div className="bg-white w-full h-full rounded-full flex justify-center items-center">
+                  <div className="flex items-center justify-center w-full h-full bg-white rounded-full">
                     <div className="pl-1">{btnIcon}</div>
                   </div>
                 </div>

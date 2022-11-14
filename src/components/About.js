@@ -11,7 +11,7 @@ const About = () => {
   const { title, subtitle1, subtitle2, btnText, btnIcon } = aboutData;
   return (
     <section className="lg:py-16 xl:pb-[160px]">
-      <div className="container mx-auto">
+      <div className="container mx-auto" id="about">
         <div className="flex flex-col lg:flex-row gap-x-[70px] items-center">
           {/* numbers */}
           <motion.div
@@ -19,7 +19,7 @@ const About = () => {
             initial="hidden"
             whileInView={'show'}
             viewport={{ once: false, amount: 0.7 }}
-            className="flex flex-col lg:flex-row flex-1"
+            className="flex flex-col flex-1 lg:flex-row"
           >
             <div className="text-[360px] xl:text-[720px] leading-none font-tertiary lg:-tracking-[0.055em] bg-about bg-no-repeat bg-right bg-clip-text text-transparent">
               01

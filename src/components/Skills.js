@@ -64,10 +64,11 @@ const Skills = () => {
       whileInView={'show'}
       viewport={{ once: false, amount: 0.1 }}
       ref={ref}
+      id="skills"
       className="section font-primary"
     >
       <div className="container mx-auto">
-        <div className="flex flex-col xl:flex-row justify-between items-center gap-y-12">
+        <div className="flex flex-col items-center justify-between xl:flex-row gap-y-12">
           <div className="w-[150px] lg:w-[275px] flex flex-col justify-center items-center gap-y-6">
             <CircularProgressbar
               strokeWidth={1}
