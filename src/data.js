@@ -30,8 +30,8 @@ export const navData = {
     { href: '/', name: 'Home' },
     { href: '#about', name: 'About' },
     { href: '#gallery', name: 'Gallery' },
-    { href: '#interview', name: 'Interview' },
     { href: '#skills', name: 'Skills' },
+    { href: '#interview', name: 'Interview' },
     { href: '#contact', name: 'Contact' },
   ],
 };
@@ -45,7 +45,7 @@ export const socialData = [
 ];
 
 export const heroData = {
-  title: 'I’m Void Sir.',
+  title: 'I’m Faceless Void.',
   subtitle:
     'Tattoos have their own unique power and magic. They not only beautify the body but also the psyche.',
   btnText: 'read more',
