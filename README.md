@@ -12,7 +12,7 @@ Live Server: https://gabrieltattoo.netlify.app/
 
 ## Tech Stack
 
-**Client:** React, TailwindCSS, Framer-motion
+**Client:** ReactJS, TailwindCSS, Framer-motion
 
 ## Run Locally
 
