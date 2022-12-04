@@ -1,6 +1,4 @@
-# Project Title
-
-Tattoo Website.
+# Tattoo Website
 
 I made this project to practice my skills in TailwindCSS with framer motion.
 
